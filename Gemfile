@@ -9,7 +9,7 @@ gem 'jbuilder',   '2.10.0'
 gem 'puma',       '4.3.5'
 gem 'rails',      '6.0.3.1'
 gem 'aws-sdk-s3',              '1.46.0', require: false
-gem 'image_processing',           '1.9.3'
+gem 'image_processing',           '1.12.2'
 gem 'mini_magick',                '4.9.5'
 gem 'active_storage_validations', '0.8.2'
 gem 'bcrypt',     '3.1.13'
